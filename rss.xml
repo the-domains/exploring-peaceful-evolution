@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Exploring Peaceful Evolution]]></title>
         <description><![CDATA[Exploring Peaceful Evolution]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/exploring-peaceful-evolution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 20:12:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 20:14:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/exploring-peaceful-evolution/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Clark</p>]]></description>
-            <link>undefinedclark/index.html</link>
+            <link>https://thegrid.ai/exploring-peaceful-evolution/clark/index.html</link>
             <guid isPermaLink="false">86ff71c0-7918-49ed-afaa-62db64eda71f</guid>
-            <pubDate>Fri, 29 Apr 2016 20:12:26 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 20:14:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
