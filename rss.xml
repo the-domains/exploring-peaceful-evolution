@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Exploring Peaceful Evolution]]></title>
+        <description><![CDATA[Exploring Peaceful Evolution]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Apr 2016 20:12:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Clark</p>]]></description>
+            <link>undefinedclark/index.html</link>
+            <guid isPermaLink="false">86ff71c0-7918-49ed-afaa-62db64eda71f</guid>
+            <pubDate>Fri, 29 Apr 2016 20:12:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
