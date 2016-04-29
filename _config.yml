@@ -1,0 +1,28 @@
+name: Exploring Peaceful Evolution
+favicon: null
+layout_spectrum: 0.755339392228052
+typography_spectrum: 0.758996098767966
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7510996987111866
+  lightness: 0.5171627860981971
+  saturation: 0.43699323455803096
+  rhythmicContrast: 0.9133443112950772
+purpose: []
